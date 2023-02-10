@@ -1,1 +1,2 @@
 # Fisica-Estadistica
+Tarea 1: El código de la tarea 1 está construido en Python sobre un Jupyer Notebook para mayor facilidad al ejecutarlo. Para ejecutar el programa puede correr cada una de las cajas de código individualmente o ejecutar todo el Notebook a la vez. Las gráficas y resultados importantes se actualizarán debajo de cada caja de código. Recuerde que el parámetro N (número de pasos) puede ser modificado por el usuario.
